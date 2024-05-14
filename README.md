@@ -1,4 +1,4 @@
-Simple calculator that is able to calculate the 4 basic operations involving both even and odd numbers.
+Simple calculator that is able to calculate the 4 basic operations involving both positive and negative numbers.
 
 
 A little introduction to the program:
